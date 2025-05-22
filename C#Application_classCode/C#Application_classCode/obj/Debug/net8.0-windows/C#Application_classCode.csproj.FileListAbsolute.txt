@@ -1,0 +1,17 @@
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\bin\Debug\net8.0-windows\C#Application_classCode.exe
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\bin\Debug\net8.0-windows\C#Application_classCode.deps.json
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\bin\Debug\net8.0-windows\C#Application_classCode.runtimeconfig.json
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\bin\Debug\net8.0-windows\C#Application_classCode.dll
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\bin\Debug\net8.0-windows\C#Application_classCode.pdb
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C_Application_classCode.Form1.resources
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.csproj.GenerateResource.cache
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.AssemblyInfoInputs.cache
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.AssemblyInfo.cs
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.csproj.CoreCompileInputs.cache
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.dll
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\refint\C#Application_classCode.dll
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.pdb
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C#Application_classCode.genruntimeconfig.cache
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\ref\C#Application_classCode.dll
+C:\Users\kpilla\source\repos\C#Application_classCode\C#Application_classCode\obj\Debug\net8.0-windows\C_Application_classCode.Properties.Resources.resources
